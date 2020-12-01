@@ -1,5 +1,7 @@
 package main
 
+// (c) Leonid Titov, 2019, All rights reserved
+
 import (
 	"1axk.com/latitov/daob"
 	"context"
